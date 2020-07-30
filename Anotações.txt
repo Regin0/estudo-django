@@ -1,0 +1,11 @@
+Sistemas Web são software/aplicações q são hospedados na net ou na intranet onde o user pode acessar fazendo requisições, eles permitem ser acessados sem ter q baixar e instalar a aplicação.
+
+Quais as vantagens? é seguro pq a aplicação e o banco são hospedados em servidores locais, são mais acessíveis já q n precisam baixar dependedncia pra poder usar e é mais rápido e menos trabalhoso a disponibilização de novas atts.
+
+
+Python pra web é utilizado em vários seguimentos, exemplos: ciência de dados, adm de sistemas, desenvolvimento dee software desktops (GUI), jogos, apps e sistemas web.
+
+Djando é um framework web Python de alto nível, ele abstrai muito do trabalho do dev pq ele cuida de grande parte do desenvolvimento web oq permite o dev focar mais no core da aplicação, além de ser gratuito e o mais popular
+
+criando um projeto django -> django-admin startproject nome_do_projeto
+criando um app django -> django-admin startapp nome_do_app
