@@ -9,3 +9,5 @@ Djando é um framework web Python de alto nível, ele abstrai muito do trabalho 
 
 criando um projeto django -> django-admin startproject nome_do_projeto
 criando um app django -> django-admin startapp nome_do_app
+
+python manage.py runserver para rodar a aplicação
